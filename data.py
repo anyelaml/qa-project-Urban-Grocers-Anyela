@@ -8,5 +8,5 @@ user_body = {
 }
 
 kit_body = {
-    "name": "Viajando"
+    "name": "Viajera"
 }
